@@ -1,0 +1,27 @@
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+}
+
+body{
+    background-color: #c7e123;
+}
+
+a{
+    font-family: sans;
+    color: #7c6b6b;
+}
+
+p, td, h1, input {
+    font-family: sans;
+
+}
+
+input{
+    border-collapse: collapse;
+}   
+
+table, td, th{
+    border:1px solid black;
+}
